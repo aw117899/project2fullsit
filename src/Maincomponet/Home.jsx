@@ -13,7 +13,7 @@ import { FaWhatsapp } from "react-icons/fa6";
 
 const Home = () => {
   return (
-    <div className='homepage'>
+    <div id='targetSection1' className='homepage'>
     <Container>
     <div className='row'>
     <div className='col-md-6 colleft'>
@@ -24,7 +24,7 @@ const Home = () => {
 
     <div className='col-md-6 p-5 d-flex '>
     <div>
-    <img class="colright" alt="hero" src={One} />
+    <img class="colright w-100 h-100 mt-5" alt="hero" src={One} />
     </div>
     <div className='seticonhome'>
     <div className='linebox1'></div>

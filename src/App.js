@@ -10,6 +10,7 @@ import Portfolio from './Maincomponet/Portfolio.jsx';
 import Exprince from './Maincomponet/Exprince.jsx';
 import Testemonel from './Maincomponet/Testemonel.jsx';
 import Contact from './Maincomponet/Contact.jsx';
+// import Fmain from './Maincomponet/Fmain.jsx';
 
 function App() {
   return (
@@ -18,10 +19,12 @@ function App() {
     <Home />
     <About />
     <Myskill />
-    <Portfolio />
+    <Portfolio  />
     <Exprince />
     <Testemonel />
     <Contact />
+    
+    
     </div>
   );
 }

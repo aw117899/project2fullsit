@@ -10,7 +10,7 @@ import Mo from "../IMG/mongo.jfif"
 
 const Myskill = () => {
   return (
-    <div className=''>
+    <div id='targetSection3'>
     <Container>
     <h1 className='toptext'>MY SKILL</h1>
     <div className='row myskill'>

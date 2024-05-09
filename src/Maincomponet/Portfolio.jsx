@@ -9,7 +9,7 @@ import F5 from '../IMG/f5.jpeg'
 
 const Portfolio = () => {
   return (
-    <div className='portfolio'>
+    <div id='targetSection2' className='portfolio'>
     <h1>PORTFOLIO</h1>
     <Container>
     <div className='row mt-4'>

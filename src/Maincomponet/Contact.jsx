@@ -8,9 +8,9 @@ import { FaLocationDot } from "react-icons/fa6";
 
 const Contact = () => {
   return (
-    <div>
+    <div id="targetSection">
     <div className='contactpage'>
-    <h1><span>  _____________________________</span>    CONTACT US     <span> _____________________________</span></h1>
+    <h1><span>  _______________________</span>    CONTACT US     <span> _________________________</span></h1>
     </div>
     <Container>
 
